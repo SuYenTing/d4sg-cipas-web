@@ -7,4 +7,3 @@ requests
 ckiptagger
 xlrd
 networkx
-tensorflow
