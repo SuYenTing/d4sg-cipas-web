@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Sans TC'; 
+    src: url('fonts/NotoSansTC-Regular.otf');
+}
+
+* {
+  font-family: 'Noto Sans TC';
+}

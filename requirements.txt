@@ -1,0 +1,10 @@
+gunicorn
+apscheduler
+pandas
+dash
+dash_bootstrap_components
+requests
+ckiptagger
+xlrd
+networkx
+tensorflow
